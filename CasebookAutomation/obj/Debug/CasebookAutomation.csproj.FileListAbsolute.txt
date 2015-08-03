@@ -1,0 +1,11 @@
+C:\Users\Alven\documents\visual studio 2013\Projects\CasebookAutomation\CasebookAutomation\bin\Debug\CasebookAutomation.dll
+C:\Users\Alven\documents\visual studio 2013\Projects\CasebookAutomation\CasebookAutomation\bin\Debug\CasebookAutomation.pdb
+C:\Users\Alven\documents\visual studio 2013\Projects\CasebookAutomation\CasebookAutomation\bin\Debug\WebDriver.dll
+C:\Users\Alven\documents\visual studio 2013\Projects\CasebookAutomation\CasebookAutomation\bin\Debug\WebDriver.Support.dll
+C:\Users\Alven\documents\visual studio 2013\Projects\CasebookAutomation\CasebookAutomation\bin\Debug\WebDriver.xml
+C:\Users\Alven\documents\visual studio 2013\Projects\CasebookAutomation\CasebookAutomation\bin\Debug\WebDriver.Support.xml
+C:\Users\Alven\documents\visual studio 2013\Projects\CasebookAutomation\CasebookAutomation\obj\Debug\CasebookAutomation.csprojResolveAssemblyReference.cache
+C:\Users\Alven\documents\visual studio 2013\Projects\CasebookAutomation\CasebookAutomation\obj\Debug\CasebookAutomation.Resources.resources
+C:\Users\Alven\documents\visual studio 2013\Projects\CasebookAutomation\CasebookAutomation\obj\Debug\CasebookAutomation.csproj.GenerateResource.Cache
+C:\Users\Alven\documents\visual studio 2013\Projects\CasebookAutomation\CasebookAutomation\obj\Debug\CasebookAutomation.dll
+C:\Users\Alven\documents\visual studio 2013\Projects\CasebookAutomation\CasebookAutomation\obj\Debug\CasebookAutomation.pdb

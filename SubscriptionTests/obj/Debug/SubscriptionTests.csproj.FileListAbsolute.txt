@@ -1,0 +1,9 @@
+C:\Users\Alven\documents\visual studio 2013\Projects\CasebookAutomation\SubscriptionTests\bin\Debug\SubscriptionTests.dll
+C:\Users\Alven\documents\visual studio 2013\Projects\CasebookAutomation\SubscriptionTests\bin\Debug\SubscriptionTests.pdb
+C:\Users\Alven\documents\visual studio 2013\Projects\CasebookAutomation\SubscriptionTests\bin\Debug\CasebookAutomation.dll
+C:\Users\Alven\documents\visual studio 2013\Projects\CasebookAutomation\SubscriptionTests\bin\Debug\WebDriver.dll
+C:\Users\Alven\documents\visual studio 2013\Projects\CasebookAutomation\SubscriptionTests\bin\Debug\CasebookAutomation.pdb
+C:\Users\Alven\documents\visual studio 2013\Projects\CasebookAutomation\SubscriptionTests\bin\Debug\WebDriver.xml
+C:\Users\Alven\documents\visual studio 2013\Projects\CasebookAutomation\SubscriptionTests\obj\Debug\SubscriptionTests.csprojResolveAssemblyReference.cache
+C:\Users\Alven\documents\visual studio 2013\Projects\CasebookAutomation\SubscriptionTests\obj\Debug\SubscriptionTests.dll
+C:\Users\Alven\documents\visual studio 2013\Projects\CasebookAutomation\SubscriptionTests\obj\Debug\SubscriptionTests.pdb
